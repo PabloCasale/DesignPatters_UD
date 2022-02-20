@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factories", "Factories\Factories.csproj", "{659751A1-74A3-4531-85D1-E50D1926F755}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{CF5A96D1-4EFA-40E6-9F39-D48530BFA705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{CF5A96D1-4EFA-40E6-9F39-D48530BFA705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{55B25D43-2202-41BF-A520-BB7BDF1602F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF5A96D1-4EFA-40E6-9F39-D48530BFA705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF5A96D1-4EFA-40E6-9F39-D48530BFA705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF5A96D1-4EFA-40E6-9F39-D48530BFA705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B25D43-2202-41BF-A520-BB7BDF1602F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B25D43-2202-41BF-A520-BB7BDF1602F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B25D43-2202-41BF-A520-BB7BDF1602F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B25D43-2202-41BF-A520-BB7BDF1602F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
